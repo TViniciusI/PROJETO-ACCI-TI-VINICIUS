@@ -1,6 +1,5 @@
 Olá, meu nome é Vinícius. Estou desenvolvendo um aplicativo para minha atual empresa, [Acci Serviços de Calibração](https://www.acci.com.br), que foi recentemente adquirida pela Trescal. Este aplicativo é voltado para o registro e pesquisa de equipamentos, visando melhorar a eficiência e a precisão na gestão de inventário.
 
-### Funcionalidades
 # Projeto de Aplicativo de Registro de Equipamentos
 
 ### Funcionalidades
