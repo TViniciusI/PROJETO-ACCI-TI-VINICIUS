@@ -20,6 +20,6 @@ Este projeto tem como objetivo proporcionar uma solução eficiente para a gest�
 
 ## Em Busca de Novas Oportunidades
 
-Embora eu goste muito de trabalhar na Acci Serviços de Calibração, estou atualmente no setor de logística, onde minhas habilidades em TI não estão sendo plenamente aproveitadas. Por isso, estou em busca de novas oportunidades na área de Tecnologia da Informação, onde eu possa continuar a crescer e aplicar meu conhecimento de forma mais significativa.
+ Estou em busca de novas oportunidades na área de Tecnologia da Informação, onde eu possa continuar a crescer e aplicar meu conhecimento de forma mais significativa.
 
 Se você está interessado em meu trabalho ou tem uma oportunidade que se encaixe no meu perfil, por favor, entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/vinicius-silva-32435a261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) ou envie um e-mail para [viniciusmagalhaes2y@gmail.com].
